@@ -1,0 +1,12 @@
+account\GoogleLoginAction.class
+root\RouteCreationAction.class
+tool\EncodingFilter.class
+tool\Page.class
+account\FirebaseInitListener.class
+account\LoginAction.class
+account\SignupAction.class
+dao\DAO.class
+tool\FrontController.class
+root\GoogleMapsClient.class
+dao\UserDAO.class
+tool\Action.class
